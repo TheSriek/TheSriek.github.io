@@ -1,0 +1,20 @@
+#aboutSection {
+    font-size: 30px;
+}
+
+#projectSection {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+
+#projectSection a {
+    text-decoration: none;
+    color: black;
+}
+
+#projectSection img {
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+}
